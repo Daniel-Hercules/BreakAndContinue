@@ -1,0 +1,13 @@
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\bin\Debug\netcoreapp3.1\BreakAndContinue.exe
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\bin\Debug\netcoreapp3.1\BreakAndContinue.deps.json
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\bin\Debug\netcoreapp3.1\BreakAndContinue.runtimeconfig.json
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\bin\Debug\netcoreapp3.1\BreakAndContinue.runtimeconfig.dev.json
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\bin\Debug\netcoreapp3.1\BreakAndContinue.dll
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\bin\Debug\netcoreapp3.1\BreakAndContinue.pdb
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\obj\Debug\netcoreapp3.1\BreakAndContinue.csprojAssemblyReference.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\obj\Debug\netcoreapp3.1\BreakAndContinue.AssemblyInfoInputs.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\obj\Debug\netcoreapp3.1\BreakAndContinue.AssemblyInfo.cs
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\obj\Debug\netcoreapp3.1\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\obj\Debug\netcoreapp3.1\BreakAndContinue.dll
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\obj\Debug\netcoreapp3.1\BreakAndContinue.pdb
+C:\Users\D.Hercules (HISCOX)\source\repos\BreakAndContinue\BreakAndContinue\obj\Debug\netcoreapp3.1\BreakAndContinue.genruntimeconfig.cache
